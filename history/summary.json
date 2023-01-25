@@ -22,19 +22,19 @@
     "url": "https://secure.ethicspoint.com/",
     "icon": "https://icons.duckduckgo.com/ip3/secure.ethicspoint.com.ico",
     "slug": "ethics-point-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 735,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 591,
+    "timeDay": 700,
+    "timeWeek": 591,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 21
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://secure.ethicspoint.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/secure.ethicspoint.eu.ico",
     "slug": "ethics-point-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 650,
-    "timeWeek": 881,
-    "timeMonth": 881,
-    "timeYear": 881,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 1192,
+    "timeDay": 1348,
+    "timeWeek": 1192,
+    "timeMonth": 1192,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 21
     }
   }
 ]
