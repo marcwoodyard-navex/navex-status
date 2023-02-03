@@ -4,9 +4,9 @@
     "url": "https://www.navex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.navex.com.ico",
     "slug": "navex-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 334,
     "timeMonth": 339,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-03": 0
+    }
   },
   {
     "name": "EthicsPoint-US",
